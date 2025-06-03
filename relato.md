@@ -1,6 +1,6 @@
 # Prática de escalonamento de tarefas
 
-**aluno:** [Lucas Tales b.Barbosa](https://github.com/Lucas-Tales1)
+**aluno:** [Lucas Tales B. Barbosa](https://github.com/Lucas-Tales1)
 
 **data:** 02/06/2025
 
